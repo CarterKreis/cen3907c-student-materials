@@ -1,0 +1,3 @@
+[submodule "Assignments/04B - Drivers for Embedded Systems/pico-examples"]
+	path = Assignments/04B - Drivers for Embedded Systems/pico-examples
+	url = git@github.com:raspberrypi/pico-examples.git
